@@ -50,5 +50,3 @@
  <a href="mailto:sidrk339@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" height="40" width="52" alt="linkedin"/></a> 
   <a href="https://stackoverflow.com/users/14249544/siddhanth" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stackoverflow/stackoverflow-original.svg" height="40" width="52" alt="stackoverflow"/></a>
  <a href="https://www.linkedin.com/in/siddhanth-rupeshkumar-475b98200/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin"/></a> 
- <a href="https://camicroscope.slack.com/team/U01SE3XQKSR" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" height="40" width="52" alt="linkedin"/></a>   
-</div>
